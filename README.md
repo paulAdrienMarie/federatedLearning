@@ -1,4 +1,4 @@
-# federatedLearning
+# Web App for Federated Learning
 
 This project aims to show a little web application for local inferences with model Mozilla/distilvit.
 
